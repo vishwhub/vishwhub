@@ -21,8 +21,7 @@
 - ⚡ Fun fact **I Think I'm Funny**
 
 
--<break> <break> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwhub" alt="vishwhub" /></a> </p>
-
+-<break> <break>[![trophy](https://github-profile-trophy.vercel.app/?username=vishwhub)](https://github.com/vishwhub/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
