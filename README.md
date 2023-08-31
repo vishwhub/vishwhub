@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishwhub&label=Profile%20views&color=0e75b6&style=flat" alt="vishwhub" /> </p>
 <img align="right" alt="coding" width="400" height="250" src="https://static01.nyt.com/images/2018/12/17/autossell/17sl_laptop/28sl_laptopspill-superJumbo-v2.gif">
 
-- 🌱 I’m currently studying **First Year MCA(Engineering)**
+- 🌱 I’m currently studying **MCA(Engineering)**
 
 - 🍉 I have completed 2 month Web Development internship from 𝐎𝐜𝐭𝐚𝐧𝐞𝐭
 
